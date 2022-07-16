@@ -1,1 +1,0 @@
-createobject("wscript.shell").run "C:\Users\jiera\Desktop\新建文件夹\hosts-server-pkg-win-x64\hosts-server.exe",0
